@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 #This script shows the command to list my processes
 
-ps aux
+ps axuf
