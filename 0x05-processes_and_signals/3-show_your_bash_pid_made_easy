@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+#This script contains the command that displays the PID and process name whose name contains bash
+
+pidof bash
