@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+#This scripts contains a command that displays the listening ports and PID
+sudo netstat lp
