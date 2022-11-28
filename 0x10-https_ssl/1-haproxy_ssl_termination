@@ -48,6 +48,6 @@ frontend  kabeer.tech.tech-https-frontend
 
 backend kabeer.tech-backend
         balance roundrobin
-        server 914-web-01 35.175.119.246 check
-        server 914-web-02 44.192.54.126 check
+        server 914-web-01 3.236.170.119 check
+        server 7890-web-02 54.234.34.21 check
 # end of parameters
