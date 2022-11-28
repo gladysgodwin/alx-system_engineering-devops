@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 # Connects to my Holberton server.
-ssh -i ~/.ssh/school ubuntu@44.200.23.216
+ssh -i ~/.ssh/school ubuntu@3.236.170.119
 
